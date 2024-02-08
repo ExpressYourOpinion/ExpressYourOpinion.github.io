@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 2%;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 36pt;
+    padding-bottom: 2%;
+}
+
+
+body {
+    background-color: #6B4E45;
+    color: #EAE1D2;
+}
+
+.flexbox {
+
+   background-color: #231717;
+   font-size: 25px;
+   text-align: center;
+   border-radius: 40px;
+
+ 
+}
